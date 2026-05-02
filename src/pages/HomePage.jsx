@@ -89,7 +89,7 @@ export default function HomePage({ chapters }) {
         <footer className="footer-bar">
             <div className="footer-links">
                 <Link to="/impressum">Impressum</Link>
-                <Link to="/datenschutz">Datenschutzerklärung</Link>
+                <Link to="/privacy-policy">Datenschutzerklärung</Link>
             </div>
 
           <p>©Urheberrecht. Alle Rechte vorbehalten.</p>

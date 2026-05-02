@@ -2,8 +2,8 @@ export default function Navigation() {
   return (
     <nav className="nav">
       <a href="#hero" className="brand">
-        QMunicate
-        </a>
+        <img src="/images/logo.png" alt="QMunicate Logo" className="logo" />
+      </a>
 
       <div className="nav-links">
         <a href="#computing">Computing</a>

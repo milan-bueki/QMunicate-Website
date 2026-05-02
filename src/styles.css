@@ -496,3 +496,8 @@ a {
 .legal-container a {
   color: var(--accent);
 }
+
+.logo {
+  height: 50px;
+  width: auto;   
+}
